@@ -36,6 +36,8 @@
 
 		<?php // drop Google Analytics Here ?>
 		<?php // end analytics ?>
+		
+		Can I put some crap in your head?
 
 	</head>
 
